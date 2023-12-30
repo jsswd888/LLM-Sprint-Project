@@ -8,4 +8,4 @@ This repo is for displaying some works to be done related to Large Language Mode
   - The first paper in reviewing process: [JudgeLM](https://arxiv.org/pdf/2310.17631.pdf)
  
 
-A copy of the previous project report is also available in repo.
+A copy of the previous project report is also available in repo. To check latest finidngs and conclusions I acquired (continuation of CS 638 project), check [here](./code/README.md).
