@@ -9,3 +9,5 @@ This repo is for displaying some works to be done related to Large Language Mode
  
 
 A copy of the previous project report is also available in repo. To check latest finidngs and conclusions I acquired (continuation of CS 638 project), check [here](./code/README.md).
+
+Update: latest finding regarding wording of evaluation metric can be found [here](./code/Update-1.md).
