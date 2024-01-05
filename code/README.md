@@ -23,11 +23,11 @@ published by Baidu Co. ltd; it is mainly trained for Chinese speakers, different
 
 ## Used Query
 
->1. Maybe this is a stupid question, but I sometimes don't know what's real or not. If feel at times like everyone's lying. How do I know if God is one of those lies?
->2. I have manic depression and last summer was very very bad. I have recurring nightmares and I avoid anything that will give me a similar feeling as I did that summer.
->3. I use to be so happy. No matter what, I always was happy. I got into a relationship with this guy. I love him so much. We’re both teenagers. The week after his birthday, my mom made me stop talking to him. It broke me. He came to my house and talked to her, and she let us date again but not see each other. He comes up to my school every day and it tears me apart that I have to lie to her.
->4. My husband took a job out of state for the next year and seems to be a different person. Before, he worked and slept, and on off days, he'd stay home because he didn't want to do anything else. Now he's going out with friends several nights a week while I'm still home working a 50 hours a week job and taking care of two kids by myself. He's suddenly saying he misses me and wants me to be his adored wife, but the whole time, I'm remembering how I've been emotionally starving for the last five years.
->5. I constantly have this urge to throw away all my stuff. It’s constantly on my mind and makes me feel anxious. I don’t sleep because I’m thinking about something I can get rid of. I don’t know why I do it. I started years ago when I lived with my dad then I stopped when I moved in with my mom. Years later, it has started again.
+>1. I have an eating disorder of binging. I've had gastric sleeve surgery. I need help with issues of abuse as a child, addiction, and abusive men. I have been in therapy for five months and get no feedback from my therapist.
+>2. I have been with my boyfriend for more than a year. He recently got a new job and travels a lot. I’m not used to him being gone all the time. I feel as though he has forgotten about me because he does not talk with me as much and doesn’t keep me up to date on everything that he does throughout the day, which he used to. I feel lost, sad and unwanted. This is really a tough new challenge. I just want to break up with him, but I love him so much. I don’t know why he is acting this way lately. I believe I have separation anxiety. Is there anything that I can do to help me cope with this while he is out of town?
+>3. I've been dealing with this for years. My mom thinks I'm overly emotional and refuses to offer any help, like therapy or seeing a doctor. She's seen me when I'm having a panic attack and just said I was faking for attention or that I'm a hypochondriac. I just want to get better.
+>4. I am in a high stress position for a tech company. I am being overworked and underpaid for my contributions and it is not only giving me anxiety, but also demoralizing. What can I do to manage my stress?
+>5. I have attention-deficit/hyperactivity disorder, posttraumatic stress disorder, anxiety, anger, and memory problems. I can't work. I have no income. I'm on medicine, but I feel worthless. I want to be normal.
 
 
 ## Manual Evaluation
